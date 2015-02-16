@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\Movement.cs">
+    <Files>
+      <File FileName="UnityTankGame.sln" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\ShootBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\OOP Scripts\DestructableObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\OOP Scripts\Tank.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\RotateTurretScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\EnemieShoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\OOP Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\BaseRotateTurret.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Movement.cs" Line="14" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
